@@ -193,3 +193,6 @@ h2 {
 .alto-contraste #nicky {
     background: none;
 }
+.alto-contraste #galeria {
+    background-color: var(--alto-contraste-fundo);
+}
