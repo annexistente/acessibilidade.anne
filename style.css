@@ -190,3 +190,6 @@ h2 {
     background-color: var(--alto-contraste-link);
     color: var(--alto-contraste-fundo)
 }
+.alto-contraste #nicky {
+    background: none;
+}
