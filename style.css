@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --rosa-claro: #ea84d9;
+    --rosa-claro: #fdc1f3;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #2025a7;
+    --alto-contraste-link: #f6bee1;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #d192df;
+    background-color: #f6bee1;
 }
 
 
@@ -29,7 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('img/nicky6.jpg');
+    background-image: url('img/glitter.png');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -72,18 +72,18 @@ section {
 }
 
 
-#nicky {
+#nicki {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/nicky3.jpg') top right no-repeat,
-        url('img/nicky9.jpg') bottom left no-repeat;
+    background: url('img/glitter.png') top right no-repeat,
+        url('img/glitter.png') bottom left no-repeat;
     background-size: 180px 180px;
     
 }
 
-#nicky .container {
+#nicki .container {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,21 +97,21 @@ h2 {
     font-family: 'Lemon', serif;
     font-size: 2.5em;
     font-style: normal;
-    color: var(--laranja-claro);
+    color: var(--rosa-claro);
 }
 
 #galeria {
-    background-color: #b1fa9b;
+    background-color: #f6bee1;
 
 }
 
 .fundo-galeria {
-    background: url('img/nicky2.jpg') bottom right no-repeat;
+    background: url('img/glitter.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/nicky8.jpg');
+    background-image: url('img/glitter.png');
     background-size: cover;
     padding: 4rem 0;
     
@@ -119,7 +119,7 @@ h2 {
 }
 
 .formulario {
-    background-color: #f099ac;
+    background-color: #f6bee1;
     padding: 2rem;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -127,13 +127,13 @@ h2 {
 }
 
 .formulario button {
-    background-color: #eacf78;
+    background-color: #f6bee1;
     border: none;
     font-weight: bold;
 }
 
 .form-control {
-    background-color: #8c0649;
+    background-color: #f6bee1;
 }
 .menu-acessibilidade{
     position: fixed;
